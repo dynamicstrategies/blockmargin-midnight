@@ -42,7 +42,7 @@ As a result, only large companies can access these products at
 reasonable prices. Smaller companies and retail clients face high costs, 
 and trades under USD 1 million notional are rarely executed.
 
-#### How BlockMargin Improves This
+### How BlockMargin Improves This
 
 BlockMargin moves the definition and enforcement of IRD contracts onto a blockchain:
 
@@ -58,7 +58,7 @@ the need for legal arbitration in most cases.
 Because all terms and calculations are automated, operational costs fall dramatically, 
 making smaller trades economically viable.
 
-#### Privacy Is Essential
+### Privacy Is Essential
 
 Banks and companies deal with highly sensitive financial information. 
 For blockchain to be a viable platform for IRDs, 
@@ -119,7 +119,7 @@ and expand their client base.
 Tokenizing financial derivatives is a logical next step for bringing 
 real-world financial instruments onto blockchain rails.
 
-#### Appendix 1: Required Company Information
+### Appendix 1: Required Company Information
 
 - Company Name
 - Company Address
