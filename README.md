@@ -1,8 +1,15 @@
 # BlockMargin on Midnight
 
-Presentation
+
+### App
+
+Launch NextJs app with `npm run dev` from root directory
+
+### Presentation
+
 https://docs.google.com/presentation/d/1oJ0s8Lm46bt9QaYQEoX611qP0AQ8EX9-Mb6XIqcOqN8/edit?usp=sharing
 
+### Context
 
 BlockMargin is a blockchain-based platform for settling 
 Interest Rate Derivatives (IRDs). It is designed to streamline 
